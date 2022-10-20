@@ -5,5 +5,5 @@ module.exports = defineConfig({
 });
 
 module.exports= {
-  publicPath: '/login-deploy/'
+  publicPath: '/login-dep/'
 }

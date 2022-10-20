@@ -122,6 +122,13 @@
       "login": "2",
       "password": "2",
       "id": 27
+    },
+    {
+      "name": "Maxim",
+      "surname": "Maxim",
+      "login": "Maxim",
+      "password": "12345",
+      "id": 28
     }
   ],
   "comments": [
