@@ -1,0 +1,139 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Maxim",
+      "surname": "LI",
+      "login": "12345",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "12345",
+      "surname": "1",
+      "login": "1222",
+      "password": "sdfsdf",
+      "id": 7
+    },
+    {
+      "name": "56456",
+      "surname": "456456",
+      "login": "456456",
+      "password": "456456",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "name": "max",
+      "surname": "li",
+      "login": "1",
+      "password": "1",
+      "id": 12
+    },
+    {
+      "name": "23",
+      "surname": "23",
+      "login": "23",
+      "password": "23",
+      "id": 13
+    },
+    {
+      "name": "34",
+      "surname": "34",
+      "login": "34",
+      "password": "34",
+      "id": 14
+    },
+    {
+      "name": "6",
+      "surname": "6",
+      "login": "6",
+      "password": "6",
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "name": "1",
+      "surname": "1",
+      "login": "1",
+      "password": "1",
+      "id": 17
+    },
+    {
+      "name": "2",
+      "surname": "2",
+      "login": "2",
+      "password": "2",
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "name": "5",
+      "surname": "5",
+      "login": "5",
+      "password": "5",
+      "id": 21
+    },
+    {
+      "name": "3",
+      "surname": "3",
+      "login": "3",
+      "password": "3",
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "name": "Maxim",
+      "surname": "Maxim",
+      "login": "Maxim",
+      "password": "12345",
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "name": "2",
+      "surname": "2",
+      "login": "2",
+      "password": "2",
+      "id": 27
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ]
+}
